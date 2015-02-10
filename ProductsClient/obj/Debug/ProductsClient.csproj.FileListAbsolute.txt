@@ -1,0 +1,5 @@
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\DayBuyDay\ProductsClient\bin\ProductsClient.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\DayBuyDay\ProductsClient\bin\ProductsClient.pdb
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\DayBuyDay\ProductsClient\obj\Debug\ProductsClient.csprojResolveAssemblyReference.cache
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\DayBuyDay\ProductsClient\obj\Debug\ProductsClient.dll
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\DayBuyDay\ProductsClient\obj\Debug\ProductsClient.pdb

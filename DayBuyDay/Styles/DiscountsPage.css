@@ -1,0 +1,14 @@
+﻿.Grad {
+    height: 350px;
+    background: linear-gradient(grey,white); /* NOT:Daha çok renk de eklenebilir
+    /*background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));  /* Sağa doğru kaydırma *\/ */ 
+}
+
+/*linear-gradient() fonksiyonu verilen iki renk
+    arasında renk değiştirerek geçişi sağlar.*/
+
+h3 {
+    border-style: outset;
+    border-color: #000000 #000000 #000000 #000000;
+}
+

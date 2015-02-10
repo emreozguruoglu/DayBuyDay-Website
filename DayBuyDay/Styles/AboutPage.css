@@ -1,0 +1,11 @@
+﻿h5 {
+    margin-left:20px;
+   /* Using the custom font we've included in the HTML tab: */
+	color: #333333;
+    font-family: ‘Lucida Console’, Monaco, monospace;
+    padding-top:20px;
+}
+#about {
+   background:-moz-linear-gradient(bottom right, grey, white);
+   border-radius: 40px/20px ;
+}

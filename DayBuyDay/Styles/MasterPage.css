@@ -1,0 +1,77 @@
+﻿#Page { /*Sayfa boyutu ve özellikleri buraya*/
+    width: 970px;
+    margin-left:180px;
+}
+
+#Search {
+    text-align:center;
+}
+
+#Header { /*Başlık kısmının özellikleri buraya */
+    font-size: 30px;
+    text-align: center;
+    background: #000;
+}
+#Menu {
+padding:50px;
+}
+
+.MenuList { /*Menü kısmının özellikleri ve rengi buraya */
+    margin: 5px;
+    height: 10px;
+    width: auto;
+    float: left;
+    /*padding:4px 7px 2px 4px;*/
+}
+
+a {
+    text-decoration: none; /*Linklerden altı çizgili özelliğini kaldırır.*/
+}
+
+#Content {
+    height: 900px;
+    width: 970px;
+    padding-top:15px;
+}
+
+#Footer { /*Alt kısmın rengi ve özellikleri buraya */
+
+}
+
+hr { /*Sayfa tabanındaki çizgi özel bir şekilde oluşturuldu.*/
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+}
+
+h4, a { /*Yazılara özellik verildi...*/
+    color:black;
+    font-family: 'Monotype Corsiva';
+    width: 112px;
+    height: 17px;
+}
+
+    #Searchbtn .btnSearch{
+        background: linear-gradient(#FFF,#EEE);
+        border: 1px solid #BBB;
+        box-shadow: 0px 0px 2px 2px #BBB;
+        padding: 5px;
+        border-bottom-left-radius:12px;
+        border-bottom-right-radius:12px;
+        border-top-left-radius:12px;
+        border-top-right-radius:12px;
+        border-color:#1d2231;
+        margin:3px;
+}
+  #Search .btnSearch:hover{
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #ccc;
+   }
+ #Search .btnSearch:active{
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }

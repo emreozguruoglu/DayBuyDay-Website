@@ -1,0 +1,66 @@
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DayBuyDay.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DayBuyDay.pdb
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\Antlr3.Runtime.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.AspNet.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.Core.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OAuth.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OpenId.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\EntityFramework.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.Web.Infrastructure.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\System.Web.Optimization.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\System.Web.Providers.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\WebGrease.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\EntityFramework.xml
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.Core.xml
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OAuth.xml
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OpenId.xml
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.AspNet.xml
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\obj\Debug\DayBuyDay.dll
+c:\users\emre ozguruoglu\downloads\documents\visual studio 2012\Projects\DayBuyDay\DayBuyDay\obj\Debug\DayBuyDay.pdb
+C:\Users\EMRE OZGURUOGLU\Downloads\Documents\Visual Studio 2012\Projects\DayBuyDay\DayBuyDay\obj\Debug\DayBuyDay.csprojResolveAssemblyReference.cache
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\obj\Debug\DayBuyDay.csprojResolveAssemblyReference.cache
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\obj\Debug\DayBuyDay.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\obj\Debug\DayBuyDay.pdb
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DayBuyDay.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DayBuyDay.pdb
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\Antlr3.Runtime.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\AspNet.ScriptManager.jQuery.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.AspNet.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.Core.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OAuth.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OpenId.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\EntityFramework.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.Web.Infrastructure.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\System.Web.Optimization.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\System.Web.Providers.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\WebGrease.dll
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\EntityFramework.xml
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.Core.xml
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OAuth.xml
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OpenId.xml
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\DotNetOpenAuth.AspNet.xml
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Masaüstü Yedek\Projects\DayBuyDay\DayBuyDay\bin\Microsoft.AspNet.FriendlyUrls.xml
